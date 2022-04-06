@@ -1,0 +1,15 @@
+article_content_product.pkl
+.ipynb_checkpoints
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pyenv
+.python-version
+
+__pycache__/
